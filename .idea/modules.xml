@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springBootTest01/springBootTest01.iml" filepath="$PROJECT_DIR$/springBootTest01/springBootTest01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBootTest02/springBootTest02.iml" filepath="$PROJECT_DIR$/springBootTest02/springBootTest02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBootTest03/springBootTest03.iml" filepath="$PROJECT_DIR$/springBootTest03/springBootTest03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springBootTest04/springBootTest04.iml" filepath="$PROJECT_DIR$/springBootTest04/springBootTest04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboottimer/springboottimer.iml" filepath="$PROJECT_DIR$/springboottimer/springboottimer.iml" />
+    </modules>
+  </component>
+</project>
